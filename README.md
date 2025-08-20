@@ -1,10 +1,13 @@
-## Animal Detection
+# Animal Detection
 
-Project created for my mech friends. Wild animal attacks including tiger were increasing in kerala forests. So they built a system with camera and other sensors to detect wild animals in kerala forests.
-Wrote the code for them. This code available here is used by them for their project.
+Animal detection in python using YoLo.
 
-Collected 10k images of Elephant, Lion, Tiger, Bear, Wild Boar, Buffalo and labeled them manually in roboflow. Then trained the model using Nvidia 4060 GPU of my friends laptop by installing CuDA.
+This Project was created for my mech friends. The wild animal attacks were frequent in forests of Kerala. So they built a threat detection and alert system with camera and other sensors which detects wild animals and alert the neighbourhood.
 
-Their project was in the local news channel.
+I wrote the code for them, and this is the code used by them. We collected 10k image samples of Elephant, Lion, Tiger, Bear, Wild Boar, Buffalo and labeled them manually using roboflow. Then I trained the model with one of my friends Nvidia 4060 GPU by installing CuDA.
+
+As an achievement their project was news in the local news channel.
+
+## Usage
 
 The code is just single file and you can get things ready by asking AI.
